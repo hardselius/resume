@@ -5,68 +5,68 @@ title: Martin Hardselius' CV
 
 # Martin Hardselius
 
-Physicist, Mathematician, Cambridge professor.
+Developer, DevOps enthusiast, father.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+<div id="webaddress">
+<a href="martin.hardselius@gmail.com">martin.hardselius@gmail.com</a>
+| <a href="https://github.com/hardselius/">https://github.com/hardselius/</a>
+| <a>+47 412 36 094</a>
+</div>
+
+## Bio
+
+I have been working as a Software Engineer and as a consultant since 2012 with
+clients of various sizes. While I'm a proficient fullstack developer, my
+expertise is in building scalable backend services.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010 - 2012`
+__Chalmers University of Technology__, Gothenburg
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master of Science, Computer Science: Algorithms, Languages, and Logic
 
-- Sizar
+`2007 - 2010`
+__Chalmers University of Technology__, Gothenburg
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+- Bachelor of Science, Computer Science
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2012 - present`
+__Netlight AS__, Oslo
 
-- Warden
-- Minted coins
+Manager
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`September 2009 - January 2011`
+__Chalmers Teknologkonsulter__, Gothenburg
 
+`2008 - 2010`
+__Academic Work__, Gothenburg
 
+## Experience
+
+`February 2019 - present`
+__reMarkable__, Backend Developer / Infrastructure
+
+`October 2015 - October 2018`
+__Telia Norway__, Backend Developer
+
+`April 2013 - October 2018`
+__Buypass__, Backend Developer
+
+`July 2012 - March 2013`
+__Norsk Tipping__, Backend Developer
+
+## Skills
+
+### Languages
+
+__Go__, Bash, Java, Javascript, Python, Haskell, etc.
+
+### Technologies
+
+Amazon Web Services, Google Cloud Platform, Terraform, Docker, Kubernetes, Helm, etc.
 
 <!-- ### Footer
 

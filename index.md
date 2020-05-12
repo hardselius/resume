@@ -36,13 +36,10 @@ __Chalmers University of Technology__, Gothenburg
 `2012 - present`
 __Netlight AS__, Oslo
 
-Manager
-
-`September 2009 - January 2011`
-__Chalmers Teknologkonsulter__, Gothenburg
-
-`2008 - 2010`
-__Academic Work__, Gothenburg
+- Consultant
+- Manager
+- Mentor
+- Delivery and Engagement Coach
 
 ## Experience
 
